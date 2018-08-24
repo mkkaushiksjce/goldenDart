@@ -1,2 +1,2 @@
 # goldenDart
-The js python ide is here.
+The toad cheif that can tame python !!!
